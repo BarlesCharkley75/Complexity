@@ -201,6 +201,7 @@ function functionName( node )
 	return "anon function @" + node.loc.start.line;
 }
 
+
 // Helper function for allowing parameterized formatting of strings.
 if (!String.prototype.format) {
   String.prototype.format = function() {
@@ -307,3 +308,9 @@ mints.toString().split(".")[0] + " " + szmin;
       }
   }
  exports.complexity = complexity;
+
+ function getStrings()
+ {
+	return output;
+ }
+ exports.getStrings = getStrings;
