@@ -63,5 +63,7 @@ The repository contains a stub that parses a javascript file and visits each fun
 
    a) **MaxNestingDepth**: The max depth of scopes (nested ifs, loops, etc) -- this one is hard, only expect a few to get to do finish this one (using parents/etc).
 
+![travistesto](https://user-images.githubusercontent.com/45805171/115762506-8ef53a80-a371-11eb-9871-be5ab5cdcaaa.PNG)
 
+![travistesti](https://user-images.githubusercontent.com/45805171/115762525-93b9ee80-a371-11eb-9c24-46a54850e146.PNG)
 
